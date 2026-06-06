@@ -1,0 +1,7 @@
+*.log
+
+# DVT
+.dvt/.build_config_dict/*
+.dvt/*.build.auto.*
+.dvt/*.ls
+.dvt/build.config.xml
