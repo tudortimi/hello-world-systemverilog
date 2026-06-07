@@ -5,3 +5,6 @@
 .dvt/*.build.auto.*
 .dvt/*.ls
 .dvt/build.config.xml
+
+# Questa
+qrun.out/
